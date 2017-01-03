@@ -30,7 +30,7 @@ $(call inherit-product, $(SRC_EVERVOLV_DIR)/config/dictionaries/intl.mk)
 # Bootanimation
 BOOT_ANIMATION_SIZE := 1080p
 
-PRODUCT_NAME := du_oneplus2
+PRODUCT_NAME := ev_oneplus2
 PRODUCT_DEVICE := oneplus2
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
